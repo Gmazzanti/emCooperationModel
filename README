@@ -1,4 +1,5 @@
+A MODEL OF COOPERATION BETWEEN AGENTS, BASED ON THE EXPLICIT PARTNER CHOICE MODEL
 
-This repository hosts three jupyter notebooks, that form an agent based model of emergence of cooperation between agents. To opern the model open the file "The Model", the other two notebooks contain only some functions. 
+This repository hosts three jupyter notebooks forming an agent based model of emergence of cooperation between agents. To explore the model open the file "The Model". The other two notebooks contain functions working in the model.
 
 This is a final project for the course Econofisica thought at the Department of Physics of the University of Turin by Professor Terna. 

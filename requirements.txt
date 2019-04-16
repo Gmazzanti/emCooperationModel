@@ -1,0 +1,12 @@
+The model uses the following libraries: 
+
+networkx
+IPython
+IPython.core.interactiveshell
+random 
+numpy
+matplotlib.pyplot
+mpl_toolkits.mplot3d
+math
+nbformat
+
